@@ -30,7 +30,7 @@ class DashboardItem {
          <div class="tracking-card">
             <div class="tracking-card__header">
                <h4 class="tracking-card__title">${title}</h4>
-               <img class="tracking-card__menu" src="/images/icon-ellipsis.svg" alt="menu">
+               <img class="tracking-card__menu" src="./images/icon-ellipsis.svg" alt="menu">
             </div>
             <div class="tracking-card__body">
                <div class="tracking-card__time">${current}hrs</div>
